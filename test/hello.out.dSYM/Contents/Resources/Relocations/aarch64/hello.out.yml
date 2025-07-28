@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/guanhao/VSCodeAlgorithmTrain/C/CS61C-Assignment/test/hello.out'
+relocations:     []
+...
